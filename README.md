@@ -1,2 +1,3 @@
 # Housing_Price_Prediction
-In this project, we aim to predict housing prices using different machine learning models.
+Hello everyone! In this project, we aim to predict housing prices using various machine learning models and see which one provides better accuracy.
+
